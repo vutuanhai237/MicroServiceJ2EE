@@ -20,4 +20,5 @@ This example is modified so that doesn't need databases and proxy.
 
 ## 2. Fully's architecture diagram: authentication, business logic, logging, database, ...
 
-![Ảnh2](https://user-images.githubusercontent.com/43202025/96558620-235ce280-12e6-11eb-8a60-025fd2155104.png)
+![Ảnh1](https://user-images.githubusercontent.com/43202025/97383719-d1791580-1900-11eb-9772-efd918fc59cf.png)
+
